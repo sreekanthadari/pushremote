@@ -1,4 +1,3 @@
-# updated the code on 8 Nov 2020
 pipeline{
     agent any
     
